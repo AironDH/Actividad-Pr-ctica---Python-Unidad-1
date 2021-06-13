@@ -1,0 +1,1 @@
+El input() al final de cada archivo es para que al terminar el programa no se cierre la ventana cuando lo ejecutas directamente del archivo en windows.
