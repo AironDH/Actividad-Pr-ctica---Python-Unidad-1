@@ -8,5 +8,5 @@ forma:
 666666"""
 
 for i in range(1,31):
-    print(str(i)* i + "\n")
+    print(str(i)* i)
 input()
