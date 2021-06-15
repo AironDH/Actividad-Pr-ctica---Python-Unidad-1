@@ -11,7 +11,7 @@ elif num < 20 and not num in primos:
     print("Tu número no es primo")
 else:
     for div in range(2,int(round(raiz) + 1)):
-        if num%div == 0:
+        if num%div == 0 and not num%2 == 0:
             print("Su número no es primo")
             break
         elif div == (int(round(raiz))):
